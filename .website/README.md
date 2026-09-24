@@ -1,4 +1,8 @@
 ---
+genres:
+  - survival
+  - management
+  - strategy
 post: https://dev.to/lopis/how-to-design-a-javascript-game-in-13kb-or-less-59kn
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
